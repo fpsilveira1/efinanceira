@@ -3,8 +3,8 @@
  * ReceberLoteEventoCriptoResult.java
  *
  * This file was auto-generated from WSDL
- * by the Apache Axis2 version: 1.6.4  Built on : Dec 28, 2015 (10:04:10 GMT)
- */
+ * by the Apache Axis 2 version: 1.6.4  Built on : Dec 28, 2015 (10:04:10 GMT)
+ */ 
 
             
                 package br.com.pdcase.efinanceira.ws.client.recepcao.util;
